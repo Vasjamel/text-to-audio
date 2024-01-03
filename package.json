@@ -1,0 +1,19 @@
+{
+  "name": "text-to-audio",
+  "version": "1.0.0",
+  "description": "Simple text-to-audio app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "text-to-speech",
+    "text-to-audio"
+  ],
+  "author": "Vasyl Meleshyn",
+  "license": "ISC",
+  "dependencies": {
+    "say": "^0.16.0"
+  },
+  "type": "module"
+}
